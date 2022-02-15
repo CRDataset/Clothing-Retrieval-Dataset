@@ -1,6 +1,6 @@
 # Clothing-Retrieval-Dataset
 
-by Kuan-Hsien Liu, Ting-Yen Chen, and Yu-Xiang Yu
+by Kuan-Hsien Liu, and Yu-Xiang Yu
 
 ![CRD_Image_ex](https://user-images.githubusercontent.com/99705480/154016468-0835b07d-f29d-4789-8cf8-598b2ae42b3e.png)
 
@@ -10,7 +10,8 @@ This dataset has a total of 42,073 images in 14 categories, namely jean(M and W)
 
 The dataset contains street image and shop image, making this dataset more challenging.
 
-# Download
+# Download the Data
+This dataset is available in [Clothing Retrieval Dataset](). 
 
 # Contact
-Please feel free to contact Kuan-Hsien Liu (khliu1212@gmail.com), Ting-Yen Chen (timh20022002@gmail.com), or Chu-Song Chen (song@iis.sinica.edu.tw) if you had any questions.
+Please feel free to contact Kuan-Hsien Liu (khliu1212@gmail.com) or ourlab(nutccsielab@gmail.com) if you had any questions.
