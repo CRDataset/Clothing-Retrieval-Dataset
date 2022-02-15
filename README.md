@@ -11,7 +11,7 @@ This dataset has a total of 42,073 images in 14 categories, namely jean(M and W)
 The dataset contains street image and shop image, making this dataset more challenging.
 
 # Download the Data
-This dataset is available in [Clothing Retrieval Dataset](). 
+This dataset is available in [Clothing Retrieval Dataset](https://drive.google.com/drive/folders/1z0A2XpDk9Eu__0yoknJn801BojnSyBpT?usp=sharing). 
 
 # Contact
 Please feel free to contact Kuan-Hsien Liu (khliu1212@gmail.com) or ourlab (nutccsielab@gmail.com) if you had any questions.
