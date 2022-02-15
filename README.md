@@ -14,4 +14,4 @@ The dataset contains street image and shop image, making this dataset more chall
 This dataset is available in [Clothing Retrieval Dataset](). 
 
 # Contact
-Please feel free to contact Kuan-Hsien Liu (khliu1212@gmail.com) or ourlab(nutccsielab@gmail.com) if you had any questions.
+Please feel free to contact Kuan-Hsien Liu (khliu1212@gmail.com) or ourlab (nutccsielab@gmail.com) if you had any questions.
